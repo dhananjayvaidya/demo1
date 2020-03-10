@@ -1,0 +1,13 @@
+{
+    "name": "dhananjayvaidya/demo1",
+    "description": "Demo 1 for Create-Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dhananjayvaidya",
+            "email": "jasonvaidya123@gmail.com"
+        }
+    ],
+    "require": {}
+}
